@@ -1,21 +1,6 @@
-### Hi there 👋
 
-<!--
-**ShameInterview/ShameInterview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 校招面试污点公司记录
+# 校招面试污点公司记录
 
 本账号及仓库专用于记录在校园招聘宣讲会以及面试过程中的具有污点行为的公司。
 
@@ -27,7 +12,8 @@ Here are some ideas to get you started:
 
 本仓库的主要信息来自于牛客、知乎等公开论坛（很多帖子都会被当场公关，但是互联网不会忘记，对于被删除的帖子，希望大家提供快照），欢迎大家积极补充参与。
 
-希望大家在参加面试或者宣讲会时不要忘记录音录像，发表言论讲究真凭实据，不夸大事实，也不粉饰太平。
+##希望大家在参加面试或者宣讲会时不要忘记录音录像，发表言论讲究真凭实据，不夸大事实，也不粉饰太平。
+
 
 
 如何使用网页长截图留档
